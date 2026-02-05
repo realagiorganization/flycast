@@ -1,0 +1,4 @@
+Prompt ID: prompts_ios_app_flycast-p00035-f08795\nTimestamp: 2026-01-24T17:50:38.711057Z\nSource: discord\nQueue: d8571dd48ee6409ca663057c7af08d19::prompt_queue::discord_1353735964635435100_1353735964635435100_1464227903595352220_realagicorp_iosapp_prompts_ios_app_flycast_1464227903595352220_json\nRun: 1/1\nContent:\nDiscord channel: prompts_ios_app_flycast\nChannel ID: 1464227903595352220\nQueue label: prompts_ios_app_flycast\nMessages aggregated: 1\n\nDiscord channel: prompts_ios_app_flycast | ID: 1464227903595352220 | Reaction filter: :white_check_mark:
+
+Messages with required reaction:
+[1] (2026-01-23T12:02:28.245+00:00 | realagiadmin_29264 | id=1464228792741658707) In https://github.com/realagiorganization/flycast\n

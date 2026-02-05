@@ -1,0 +1,12 @@
+Prompt ID: prompts_ios_app_flycast-p00038-d5b5cb\nTimestamp: 2026-01-28T04:36:17.220181Z\nSource: discord\nQueue: 2330a0bfcdfe49ccb133b0e8cb68d701::prompt_queue::discord_1353735964635435100_1353735964635435100_1464227903595352220_realagicorp_iosapp_prompts_ios_app_flycast_1464227903595352220_json\nRun: 1/1\nContent:\nDiscord channel: prompts_ios_app_flycast\nChannel ID: 1464227903595352220\nQueue label: prompts_ios_app_flycast\nMessages aggregated: 4\nAttachments saved for execution (3): attachments/image-52fde.png, attachments/image-a325c.png, attachments/image-ab5fb.png | mounted at .prompt_attachments/prompts_ios_app_flycast-p00038-d5b5cb\nAttachment locations:\n- image-52fde.png (65929 bytes) -> .prompt_attachments/prompts_ios_app_flycast-p00038-d5b5cb/image-52fde.png\n- image-a325c.png (123774 bytes) -> .prompt_attachments/prompts_ios_app_flycast-p00038-d5b5cb/image-a325c.png\n- image-ab5fb.png (139609 bytes) -> .prompt_attachments/prompts_ios_app_flycast-p00038-d5b5cb/image-ab5fb.png\n\nDiscord channel: prompts_ios_app_flycast | ID: 1464227903595352220 | Reaction filter: :white_check_mark:
+
+Messages with required reaction:
+[1] (2026-01-23T12:02:28.245+00:00 | realagiadmin_29264 | id=1464228792741658707) In https://github.com/realagiorganization/flycast
+[2] (2026-01-25T19:17:50.094+00:00 | realagiadmin_29264 | id=1465063131448606793) test/screenshot github pages website
+Attachments: image.png: /out/1353735964635435100/_media/image-a325c.png ; image.png: /out/1353735964635435100/_media/image-ab5fb.png ; image.png: /out/1353735964635435100/_media/image-52fde.png
+[3] (2026-01-25T20:22:29.152+00:00 | realagiadmin_29264 | id=1465079401396834472) Create DEVPLAN.md outlining steps for developing this project, mention there all external dependencies that leverage parts of functionality needed
+
+Create BDD test suite describing principal use cases
+
+Create GitHub actions launching BDD suite and add its badge to README. If behavior includes either console or UI / Web user interaction, record it with vhs action and post gif into README
+[4] (2026-01-27T21:26:54.883+00:00 | drybox | id=1465820391179026452) always_on_hint\n
